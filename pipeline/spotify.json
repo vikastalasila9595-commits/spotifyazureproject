@@ -1,0 +1,9 @@
+{
+	"name": "spotify",
+	"properties": {
+		"folder": {
+			"name": "Incremental Injestion"
+		},
+		"annotations": []
+	}
+}
