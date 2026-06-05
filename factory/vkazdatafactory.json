@@ -1,0 +1,15 @@
+{
+	"name": "vkazdatafactory",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "fa44dfa1-b6a4-4db0-8c01-8a67bcc60b0b",
+		"tenantId": "5c46d65d-ee5c-4513-8cd4-af98d15e6833"
+	}
+}
